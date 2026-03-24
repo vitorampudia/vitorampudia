@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Olá, eu sou Vitor Ampudia!
 
-<!--
-**vitorampudia/vitorampudia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Graduando em Análise e Desenvolvimento de Sistemas
+💻 Desenvolvedor Backend
+🚀 Foco em construção de APIs, regras de negócio e integração de sistemas
 
-Here are some ideas to get you started:
+🛠️ Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+C#, .NET, ASP.NET Core, Entity Framework Core, SQL, SQLite, APIs REST, JWT
+
+🧰 Ferramentas
+
+Git, Postman, Visual Studio, VS Code
+
+📫 Conecte-se comigo
+
+LinkedIn | Gmail | WhatsApp
