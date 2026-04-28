@@ -3,7 +3,7 @@
 <p align="center">
   💻 <strong>Desenvolvedor Web</strong> — Frontend & Backend<br>
   🎓 <strong>Graduando em Análise e Desenvolvimento de Sistemas</strong> — 3° Termo UNIMAR<br>
-  🚀 <strong>Foco em:</strong> Interfaces responsivas, APIs REST e integração de sistemas
+  🚀 <strong>Foco em:</strong> APIs REST, integração de sistemas eInterfaces responsivas
 </p>
 
 ---
